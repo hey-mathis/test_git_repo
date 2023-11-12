@@ -1,3 +1,3 @@
 # This file is the second of the repo and we multiply
-a = 9
-b = 6
+c = 9
+d = 6
