@@ -24,3 +24,6 @@ ui = 32*3
 
 # A new commit to the feature branch, after rebasing it on main.
 oop = "hi"
+#The EV feature is rather unspectacular and mainly consists of this new equation
+xyz = "very boring EV feature"
+xyzz = "hi hi" # and another equation
