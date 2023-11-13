@@ -3,3 +3,4 @@ c = 9
 d = 6
 
 # in the cloned repo we add this fancy line
+k = c+d
