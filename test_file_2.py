@@ -13,3 +13,5 @@ gg = "cry for chaos"
 
 # We once again add some chaos here, after the previous chaos has been incorporated to feature branch by merging.
 gig = "haha"
+#The EV feature is rather unspectacular and mainly consists of this new equation
+xyz = "very boring EV feature"
