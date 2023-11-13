@@ -6,3 +6,4 @@ d = 6
 k = c+d
 
 # different change made by owner, without previously downloading from GitHub
+# in the cloned repo the collaborator adds this line (but the owner add another one)
