@@ -38,3 +38,5 @@ a + b == 7
 
 # And this is a "saved" change that has not been comitted.
 d + p == 8
+# And in the original file there are also some changes
+howdy_down_south = 2
