@@ -15,6 +15,7 @@ gg = "cry for chaos"
 gig = "haha"
 #The EV feature is rather unspectacular and mainly consists of this new equation
 xyz = "very bng EV feature"
+xyzaei = "some new line that should be easy to merge"
 xyzz = "hi hi" # and another equation
 # Now lets create some chaos ... we add this to main although there exists a feature branch
 gg = "cry for chaos"
